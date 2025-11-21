@@ -4,6 +4,14 @@ body{
         background-color:#302929;
 }
 
+p{
+	position:absolute;
+	float:left;
+	top:10%;
+	font-width:50px;
+}
+
+
 #header{
         /* adjust the box to the top left corner */
         position:absolute;
